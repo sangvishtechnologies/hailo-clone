@@ -55,6 +55,7 @@ A system for ranking and reviewing drivers promotes responsibility and helps rid
 
 A simplified driver registration procedure allows a smooth transition for taxi drivers who join your platform.
 * **Trip Notifications and Acceptance:** 
+
 Drivers should receive real-time ride requests with detailed trip details, which they can accept or reject them.
 * **GPS Navigation:** 
 
