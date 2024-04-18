@@ -108,7 +108,8 @@ By using a[ Sangvish Hailo clone script](https://sangvish.com/hailo-clone/), you
 
 Please Schedule a meeting with us to learn more about starting your unique brand taxi business and to see our live demonstration. And join the[ Sangvish](https://sangvish.com/) family to expand your business's worldwide reach.
 
-Discover more on our web portal:[ https://sangvish.com/hailo-clone/](https://sangvish.com/hailo-clone/)
+
+Click here to explore a live demo of our Hailo clone :[ https://sangvish.com/hailo-clone/](https://sangvish.com/hailo-clone/)
 
 **Contact Us,**
 
